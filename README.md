@@ -9,7 +9,7 @@ A Software Engineering Student currently studying at Malaysia-Japan Institute Of
 * 🌍  I'm based in Kuala Lumpur
 * 🖥️  See my portfolio at [Danial Ihsan](http://https://dansan0408.github.io/danialihsan.io/)
 * ✉️  You can contact me at [ihsan.rubix@gmail.com](mailto:ihsan.rubix@gmail.com)
-* 🧠  I'm learning Software Engineering Course
+* 🧠  I'm a Software Engineering Student
 * 🤝  I'm open to collaborating on Any Projects
 * ⚡  I'm an avid reader and writer
 
