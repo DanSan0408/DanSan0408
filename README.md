@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with Honours** student at **Universiti Teknologi Malaysia (UTM KL)**, studying at the Malaysia-Japan International Institute of Technology (MJIIT). 
 
 * 🌍  I'm based in **Shah Alam / Kuala Lumpur, Malaysia** 
-* 🖥️  See my portfolio at [Danial Ihsan](https://dansan0408.github.io/danialihsan.io/)
+* 🖥️  See my portfolio at [Danial Ihsan]((https://portfolio-virid-iota-11.vercel.app/))
 * ✉️  Reach me at **danialihsan@graduate.utm.my** or **san.dan0408@gmail.com** 
 * 🧠  Currently focusing on **Full Stack Development, Applied Machine Learning, and Software QA** 
 * 🤝  I'm open to collaborating on **Web Applications & Automation Projects** 
@@ -17,7 +17,7 @@ A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with
 
 ### 🛠️ Tech Stack & Skills
 
-#### Programming Languages [cite: 64]
+#### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -28,7 +28,7 @@ A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </p>
 
-#### [cite_start]Frameworks, Databases & Tools [cite: 66, 67]
+#### Frameworks, Databases & Tools 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
