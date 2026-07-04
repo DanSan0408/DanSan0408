@@ -2,14 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 ## 🚀 Software Engineering Student & Freelance Developer
-A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with Honours** student at **Universiti Teknologi Malaysia (UTM KL)**, studying at the Malaysia-Japan International Institute of Technology (MJIIT). 
+[cite_start]A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with Honours** student at **Universiti Teknologi Malaysia (UTM KL)**, studying at the Malaysia-Japan International Institute of Technology (MJIIT)[cite: 5, 11, 12, 30]. 
 
-* 🌍  I'm based in **Shah Alam / Kuala Lumpur, Malaysia**
-* 🖥️  See my portfolio at [Danial Ihsan](https://dansan0408.github.io/danialihsan.io/) *(Fix: removed extra http://)*
-* ✉️  You can contact me at [danialihsan@graduate.utm.my](mailto:danialihsan@graduate.utm.my)
-* 🧠  Currently focusing on **Full Stack Development, Applied Machine Learning, and Software QA**
-* 🤝  I'm open to collaborating on **Web Applications & Automation Projects**
-* 🎯  Seeking an Internship Opportunity from **September 2026 until February 2027**
+* [cite_start]🌍  I'm based in **Shah Alam / Kuala Lumpur, Malaysia** [cite: 3, 30]
+* 🖥️  See my portfolio at [Danial Ihsan](https://dansan0408.github.io/danialihsan.io/)
+* [cite_start]✉️  Reach me at **danialihsan@graduate.utm.my** or **san.dan0408@gmail.com** [cite: 4]
+* [cite_start]🧠  Currently focusing on **Full Stack Development, Applied Machine Learning, and Software QA** [cite: 68, 69]
+* [cite_start]🤝  I'm open to collaborating on **Web Applications & Automation Projects** [cite: 9, 46]
+* [cite_start]🎯  Seeking an Internship Opportunity from **September 2026 until February 2027** [cite: 9]
 
 <a href="https://www.x.com/d_ihsan04" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/d_ihsan04?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -17,7 +17,7 @@ A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with
 
 ### 🛠️ Tech Stack & Skills
 
-#### Programming Languages
+#### [cite_start]Programming Languages [cite: 64]
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -28,7 +28,7 @@ A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </p>
 
-#### Frameworks, Databases & Tools
+#### [cite_start]Frameworks, Databases & Tools [cite: 66, 67]
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -45,29 +45,36 @@ A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with
 
 ### 📂 Featured Projects
 
-* **🌐 Integrated External Assessment System (UTM)**
-  * *Tech:* Spring Boot, MySQL, Docker, Java
-  * Automated external grading and progress tracking supporting 4 distinct user workflows. 
-  * Currently in active application for formal copyright protection.
+* [cite_start]**🌐 Integrated External Assessment System (UTM)** [cite: 24, 28]
+  * [cite_start]*Tech:* Spring Boot, MySQL, Docker, Java [cite: 25]
+  * [cite_start]Automated external grading and progress tracking supporting 4 distinct user workflows[cite: 26, 27].
+  * [cite_start]Currently in active application for formal copyright protection[cite: 28].
 
-* **🏆 Financial Management & Performance Monitoring System (MJIIT)**
-  * *Tech:* PERN Stack (Postgres, Express, React, Node.js), Firebase
-  * Centralized information system built for academic KPI and budget tracking under an Agile development pipeline. Won **Best System Award**.
+* [cite_start]**🏆 Financial Management & Performance Monitoring System (MJIIT)** [cite: 35]
+  * [cite_start]*Tech:* PERN Stack (Postgres, Express, React, Node.js), Firebase [cite: 39]
+  * [cite_start]Centralized information system built for academic KPI and budget tracking under an Agile development pipeline[cite: 36, 40]. [cite_start]Won **Best System Award**[cite: 34].
 
-* **🤖 DHL Incident Management System (Automation Challenge 3.0)**
-  * *Tech:* React.js, Node.js, Express, MySQL, UiPath RPA
-  * Combined a full-stack dashboard with a custom software robot to autonomously process enterprise incident reports, heavily trimming data-entry pipelines.
+* [cite_start]**🤖 DHL Incident Management System (Automation Challenge 3.0)** [cite: 44]
+  * [cite_start]*Tech:* React.js, Node.js, Express, MySQL, UiPath RPA [cite: 45, 46]
+  * [cite_start]Combined a full-stack dashboard with a custom software robot to autonomously process enterprise incident reports, heavily trimming data-entry pipelines[cite: 45, 46].
 
 ---
 
 ### 🏆 Key Achievements
-* **CGPA:** 3.89 / 4.00 (Universiti Teknologi Malaysia) 🎓
-* **Best System Award** | MJIIT Software Engineering Service Learning Cycle 5
-* **Top Leadership Award (*Anugerah Kepimpinan*)** | Kolej Ungku Aziz, Universiti Malaya
+* [cite_start]**CGPA:** 3.89 / 4.00 (Universiti Teknologi Malaysia) 🎓 [cite: 13]
+* **Best System Award** | [cite_start]MJIIT Software Engineering Service Learning Cycle 5 [cite: 49]
+* **Top Leadership Award (*Anugerah Kepimpinan*)** | [cite_start]Kolej Ungku Aziz, Universiti Malaya [cite: 49]
 
 ---
 
-### 🌐 Socials
+### 🤝 Contact & Connect
+
+Thank you for checking out my profile! If you're a recruiter, open-source enthusiast, or fellow developer, feel free to reach out.
+
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/danial-ihsan-mohd-nadhir-66635b3a8/)
+- 🐙 **GitHub:** [GitHub Profile](https://github.com/DanSan0408e)
+- [cite_start]✉️ **Primary Email:** [danialihsan@graduate.utm.my](mailto:danialihsan@graduate.utm.my) [cite: 4]
+- ✉️ **Personal Email:** [san.dan0408@gmail.com](mailto:san.dan0408@gmail.com)
 
 <p align="left"> 
   <a href="https://www.github.com/DanSan0408" target="_blank" rel="noreferrer">
