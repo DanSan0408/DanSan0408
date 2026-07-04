@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate 3rd-year **Bachelor of Computer Science (Software Engineering) with Honours** student at **Universiti Teknologi Malaysia (UTM KL)**, studying at the Malaysia-Japan International Institute of Technology (MJIIT). 
 
 * 🌍  I'm based in **Shah Alam / Kuala Lumpur, Malaysia** 
-* 🖥️  See my portfolio at [Danial Ihsan]([(https://portfolio-virid-iota-11.vercel.app/)])
+* 🖥️  See my portfolio at [Danial Ihsan](https://portfolio-virid-iota-11.vercel.app/)
 * ✉️  Reach me at **danialihsan@graduate.utm.my** or **san.dan0408@gmail.com** 
 * 🧠  Currently focusing on **Full Stack Development, Applied Machine Learning, and Software QA** 
 * 🤝  I'm open to collaborating on **Web Applications & Automation Projects** 
